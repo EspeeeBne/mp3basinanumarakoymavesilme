@@ -51,3 +51,10 @@ Klasör veya dizin yolunu girdikten sonra `Enter` tuşuna basın. İşlem tamaml
 ---
 
 Hepsi bu kadar! Artık müzikleriniz düzenli ve istediğiniz sırada sıralanmış olacak.
+
+---
+
+## Lisans
+
+Bu proje [ISC License](https://spdx.org/licenses/ISC) ile lisanslanmıştır.  
+Tam metni görmek için `LICENSE` dosyasına bakın.
