@@ -16,7 +16,7 @@ Merhaba! Bu projeyi, babam uzun yola çıkarsak şarjınız boşa gitmesin al bu
 
 ```
 git clone https://github.com/EspeeeBne/mp3basinanumarakoymavesilme.git
-cd mp3-başına-numara-koyma-ve-numara-silme
+cd mp3basinanumarakoymavesilme
 npm install
 ````
 
