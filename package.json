@@ -1,0 +1,19 @@
+{
+  "name": "mp3basinanumarakoymavesilme",
+  "version": "1.0.0",
+  "scripts": {
+    "silici": "node src/silici.js",
+    "koyucu": "node src/koyucu.js"
+  },
+  "keywords": [],
+  "author": "Espe",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^12.6.3",
+    "path": "^0.12.7",
+    "prompt-sync": "^4.2.0"
+  }
+}
