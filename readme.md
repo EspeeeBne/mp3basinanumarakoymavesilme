@@ -57,4 +57,4 @@ Hepsi bu kadar! Artık müzikleriniz düzenli ve istediğiniz sırada sıralanm�
 ## Lisans
 
 Bu proje [ISC License](https://spdx.org/licenses/ISC) ile lisanslanmıştır.  
-Tam metni görmek için `LICENSE` dosyasına bakın.
+Tam metni görmek için [LİSANS](./LICENSE) dosyasına bakın.
